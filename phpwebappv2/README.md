@@ -1,5 +1,4 @@
-# Simple deployment with an insecure webapp and a sql database
-
+# Despliegue de aplicación web balanceada en varios frontales 
 ## Requerimientos 
 
 Docker, docker-compose 
